@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # terraform-testing-project
 understanding the simple project
 =======
@@ -14,3 +15,6 @@ understanding the simple project
 ![Problems with Terraform](images/terraform_10.png)
 ![Terraform Interview Questions](images/terraform_11.png)
 >>>>>>> 0b99072 (first commit)
+=======
+# terrafor-project
+>>>>>>> f194a4f75596117354373837420c4db5d27f5c4c
